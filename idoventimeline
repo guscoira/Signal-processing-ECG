@@ -47,7 +47,7 @@ Sábado (día 4)
 Identificar el QRS y sacar conclusiones
 
 FALTA POR ENTENDER:
-- COMO FUNCIONA AL DETALLE EL INSTRUMENTO: COMO MIDE LA CORRIENTE Y COMO DETECTA LOS PULSOS
+- COMO FUNCIONA AL DETALLE EL INSTRUMENTO: COMO MIDE LA CORRIENTE Y COMO DETECTA LOS PULSOS  -- HECHO
 - SEÑAL/RUIDO y BASELINE
 - QUE INFORMACION NOS DA EL COMPLEJO QRS
 
@@ -55,8 +55,17 @@ Domingo (día 5)
 
 Automatizar y Documentación:
 
+Data:
+https://physionet.org/content/ptbdb/1.0.0/
+
 Cite sources (and mention the python package)
 https://physionet.org/content/wfdb-python/4.0.0/
+
+instrument:
+http://www.emtresource.com/category/resources/ecg/
+https://www.cablesandsensors.eu/pages/12-lead-ecg-placement-guide-with-illustrations
+https://ecgwaves.com/topic/ecg-normal-p-wave-qrs-complex-st-segment-t-wave-j-point/
+https://www.ncbi.nlm.nih.gov/books/NBK551635/
 
 Otras sugerencias:
 
