@@ -61,6 +61,8 @@ https://physionet.org/content/ptbdb/1.0.0/
 Cite sources (and mention the python package)
 https://physionet.org/content/wfdb-python/4.0.0/
 
+
+
 instrument:
 http://www.emtresource.com/category/resources/ecg/
 https://www.cablesandsensors.eu/pages/12-lead-ecg-placement-guide-with-illustrations
@@ -70,19 +72,7 @@ https://www.ncbi.nlm.nih.gov/books/NBK551635/
 Methods:
 https://www.scitepress.org/Papers/2021/102346/102346.pdf
 
-Otras sugerencias:
 
-Usar OoP si es posible
-Crear un widget que tome como input el paciente y plotee el ECG
-(calcule las cosas?)
-
-Lunes (día 6)
-
-Test de todo
-
-Martes (día 7)
-
-Test de todo
 
 IMPORTANTISIMO: https://github.com/MIT-LCP/wfdb-python/blob/main/demo.ipynb
 Hay que sacar para cada paciente lo siguiente:
